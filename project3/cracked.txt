@@ -17,6 +17,7 @@ chiricsen:123123
 shortoeve:passw0rd
 namefreezing:donald
 ancyprol:banana
+acaderli:aa123456
 makiomed:hello
 baignolje:scooby
 nailitro:evaporitic
@@ -36,4 +37,4 @@ baseinstant:Letterin4
 teeratec:Arsenolite6
 guitaristjaden:colaphize.
 
-37 password hashes cracked, 13 left
+38 password hashes cracked, 12 left
