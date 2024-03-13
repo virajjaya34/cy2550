@@ -2,11 +2,13 @@ eliteextraintcat:dragon
 aralmoni:love
 ninjakeeper:summer
 idealworman:mike
+runestnam:qwertyuiop
 superti:charles
 tenashlin:diamond
 barrxhorr:hunter
 royalcortli:12345678
 interfail:scooter
+fostrie:zxcvbnm
 tuchillpro:internet
 infiguard:mickey
 liciolog:131313
@@ -16,6 +18,7 @@ milknomain:porsche
 chiricsen:123123
 shortoeve:passw0rd
 namefreezing:donald
+hipspork:987654321
 ancyprol:banana
 acaderli:aa123456
 makiomed:hello
@@ -37,4 +40,4 @@ baseinstant:Letterin4
 teeratec:Arsenolite6
 guitaristjaden:colaphize.
 
-38 password hashes cracked, 12 left
+41 password hashes cracked, 9 left
